@@ -272,5 +272,12 @@
 		"url": "https://leoku.dev/zh/me",
 		"description": "v2ex 发现的人，并不发blog，但是个人网站很好看，一眼过去，很难不称赞。开源的 V2EX_Polish 确实很好用。",
 		"stars": 4
+	},
+	{
+		"name": "haoqi.design",
+		"avatar": "https://haoqi.design/apple-icon.png?apple-icon.179f0bdd.png",
+		"url": "https://haoqi.design/",
+		"description": "设计的很棒的个人网站",
+		"stars": 5
 	}
 ]
