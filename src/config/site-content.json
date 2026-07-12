@@ -1,11 +1,11 @@
 {
 	"meta": {
-		"title": "conmeodingu",
+		"title": "YYsuni",
 		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
 		"username": "Suni"
 	},
 	"theme": {
-		"colorBrand": "#2fcbe7",
+		"colorBrand": "#E40C31",
 		"colorPrimary": "#5B423F",
 		"colorSecondary": "#8b7667",
 		"colorBrandSecondary": "#eec25e",
@@ -15,9 +15,11 @@
 		"colorArticle": "#ffffffcc"
 	},
 	"backgroundColors": [
-		"#f7da3987",
-		"#8fdbe9",
-		"#fffef8"
+		"#7B2C97",
+		"#49A887",
+		"#8B8636",
+		"#22D019",
+		"#018208"
 	],
 	"artImages": [
 		{
@@ -64,14 +66,14 @@
 			"order": 1
 		}
 	],
-	"clockShowSeconds": true,
-	"summaryInContent": true,
+	"clockShowSeconds": false,
+	"summaryInContent": false,
 	"isCachePem": false,
 	"hideEditButton": false,
 	"enableCategories": true,
 	"currentHatIndex": 3,
 	"hatFlipped": false,
-	"enableChristmas": true,
+	"enableChristmas": false,
 	"beian": {
 		"text": "",
 		"link": ""
