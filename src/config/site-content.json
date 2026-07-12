@@ -5,7 +5,7 @@
 		"username": "Suni"
 	},
 	"theme": {
-		"colorBrand": "#3712AE",
+		"colorBrand": "#2a48f3",
 		"colorPrimary": "#e6e8e8",
 		"colorSecondary": "#acadae",
 		"colorBrandSecondary": "#51d0b9",
@@ -15,14 +15,7 @@
 		"colorArticle": "#6f6f6f33"
 	},
 	"backgroundColors": [
-		"#D65108",
-		"#BF6E58",
-		"#9D98B0",
-		"#D2D0EE",
-		"#666537",
-		"#496CC5",
-		"#6363BC",
-		"#109EAD"
+		"#16007b"
 	],
 	"artImages": [
 		{
